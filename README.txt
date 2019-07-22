@@ -17,6 +17,6 @@ Not wanted to get lost in the weeds paying attention to the good
 scores, I filtered down to the first scores received, before there 
 was time to improve. Looking at only these initial scores, I then 
 filtered down to the low end, ultimately resting on the scores of 
-82 and below. Out of that group, there is a clear cut winner.
+82 and below. Out of that group, there is a clear-cut winner.
 
 
