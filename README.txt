@@ -13,7 +13,7 @@ able to see a score for each time the health inspector visited an
 eating establishment, along with names and addresses of each 
 location.
 
-Not wanted to get lost in the weeds paying attention to the good 
+Not wanting to get lost in the weeds paying attention to the good 
 scores, I filtered down to the first scores received, before there 
 was time to improve. Looking at only these initial scores, I then 
 filtered down to the low end, ultimately resting on the scores of 
